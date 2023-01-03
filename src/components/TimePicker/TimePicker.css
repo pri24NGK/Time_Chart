@@ -1,0 +1,10 @@
+.react-time-picker__wrapper{
+border:none;
+border-radius:4px;
+background:#ccc;
+padding:8px;
+cursor: pointer;
+}
+.e-bgChange{
+background-color: papayawhip;
+}
